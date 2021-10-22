@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **larissa.chipitelli@gmail.com**
 
-- ⚡ Fun fact **I'm funny and I hate ketchup**
+- ⚡ Fun facts **I'm funny and I hate ketchup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
