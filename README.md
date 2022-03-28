@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/lass_oliveira" target="blank"><img src="https://img.shields.io/twitter/follow/lass_oliveira?logo=twitter&style=for-the-badge" alt="lass_oliveira" /></a> </p>
 
-- 🔭 I’m currently working on **Futsal-App**
+- 🔭 I’m currently working on **software to retail market**
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 My last published project is [https://pucconsultoriajr.com.br/](https://pucconsultoriajr.com.br/)
 
 - 📫 How to reach me **larissa.chipitelli@gmail.com**
 
-- ⚡ Fun facts **I'm funny and I hate ketchup**
+- ⚡ Fun fact **I hate ketchup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
