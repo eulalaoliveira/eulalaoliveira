@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **software to retail market**
 
-- 🌱 I’m currently learning **Firebaser**
+- 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 My last published project is [https://pucconsultoriajr.com.br/](https://pucconsultoriajr.com.br/)
 
