@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **software to retail market**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Firebaser**
 
 - 👨‍💻 My last published project is [https://pucconsultoriajr.com.br/](https://pucconsultoriajr.com.br/)
 
-- 📫 How to reach me **larissa.chipitelli@gmail.com**
+- 📫 How to reach me **larissa@geniuscrew.eu**
 
 - ⚡ Fun fact **I hate ketchup**
 
