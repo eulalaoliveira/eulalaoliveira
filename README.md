@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Larissa Oliveira</h1>
-<h3 align="center">A new passionate front-end developer from Rio de Janeiro. "Technology moves the world".</h3>
+<h3 align="center">A passionate front-end developer from Rio de Janeiro. "Technology moves the world".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eulalaoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="eulalaoliveira" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 My last published project is [https://pucconsultoriajr.com.br/](https://pucconsultoriajr.com.br/)
 
-- 📫 How to reach me **larissa@geniuscrew.eu**
+- 📫 How to reach me **larissa.chipitelli@gmail.com**
 
 - ⚡ Fun fact **I hate ketchup**
 
